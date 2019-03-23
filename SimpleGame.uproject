@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.21",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "UE4EditorCustomize",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/0d22d9af59624886a6fccd9573fefa90"
+		}
+	]
+}
